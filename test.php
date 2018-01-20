@@ -1,7 +1,7 @@
 <?php 
 
 mysql_connect('localhost','root','root');
-mysql_select_db('booing_engine');
+mysql_select_db('ggggg');
      
 $data = array();
 
